@@ -14,29 +14,5 @@ Fundador de *Academy Código Salvaje*, una iniciativa inclusiva para acercar la 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
----
 
-## 🌱 Intereses
-- 🏙️ Smart cities y digitalización rural  
-- ♻️ Tecnología sostenible  
-- 🍲 Cultura local y proyectos web creativos  
-- 🤝 Aprendizaje colaborativo  
-
----
-
-## 📚 Actualmente trabajando en
-- Desarrollo de proyectos web accesibles  
-- Solución de errores técnicos y automatización  
-- Documentación clara y visual para equipos  
-
----
-
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Filosofía
-Tecnología con propósito, aprendizaje constante y creatividad en cada proyecto.
 
