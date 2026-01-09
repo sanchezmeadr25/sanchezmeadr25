@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Adrián — Desarrollador en formación | Transformación Digital & Sostenibilidad
 
-<!--
-**sanchezmeadr25/sanchezmeadr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la tecnología con impacto real. Trabajo en proyectos que conectan **transformación digital**, **entornos rurales**, **smart cities** y **sostenibilidad**.  
+Fundador de *Academy Código Salvaje*, una iniciativa inclusiva para acercar la programación a cualquier persona.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+---
+
+## 🌱 Intereses
+- 🏙️ Smart cities y digitalización rural  
+- ♻️ Tecnología sostenible  
+- 🍲 Cultura local y proyectos web creativos  
+- 🤝 Aprendizaje colaborativo  
+
+---
+
+## 📚 Actualmente trabajando en
+- Desarrollo de proyectos web accesibles  
+- Solución de errores técnicos y automatización  
+- Documentación clara y visual para equipos  
+
+---
+
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Filosofía
+Tecnología con propósito, aprendizaje constante y creatividad en cada proyecto.
+
