@@ -1,9 +1,6 @@
 # 🚀 ADRIÁN: Desarrollador Multiplataforma (Grado Superior DAM)
 
-![Insignia de DAM](https://img.shields.io/badge/Grado%20Superior-DAM-4CAF50)
-![Insignia de Java](https://img.shields.io/badge/Lenguaje%20Principal-Java-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Perfil%20Profesional-181717?logo=github)
-
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ## 👤 Introducción
 
 Hola, soy **Adrián**, estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
